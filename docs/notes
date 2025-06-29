@@ -1,0 +1,328 @@
+&platform=ios&dev=true&lazy=true&minify=false&inlineSourceMap=false&modulesOnly=false&runModule=true&excludeSource=true&sourcePaths=url-server&app=com.anonymous.bolt-expo-nativewind&transform.routerRoot=app&transform.engine=hermes&transform.bytecode=1&unstable_transformProfile=hermes-stable:443551 Bridgeless mode is enabled
+console.js:589 Running "main" with {"rootTag":1,"initialProps":{"concurrentRoot":true},"fabric":true}
+place-details.tsx:1 [PlaceDetails] Module Loaded
+preferencesStore.ts:226 Rehydrated preferences store state: Object
+_layout.tsx:73 [App] 🔧 Development mode: Initialized dev user profile
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] Auth state changed: INITIAL_SESSION No session
+console.js:589 ⚠️ [expo-av]: Video component from `expo-av` is deprecated in favor of `expo-video`. See the documentation at https://docs.expo.dev/versions/latest/sdk/video/ for the new API reference.
+Welcome to React Native DevTools
+Debugger integration: iOS Bridgeless (RCTHost)
+testAccountHelper.ts:267 [TestAccount] Saved test accounts:
+testAccountHelper.ts:269 [TestAccount] 1: test_06-25-25_13-10@roomies.com (password: Test1234)
+account.tsx:381 [Account] Using test account: test_06-25-25_13-10@roomies.com
+account.tsx:203 [DATA PERSISTENCE TEST] Creating user account in Supabase...
+testAccountHelper.ts:40 [TestAccount] Creating test account with email: test_06-25-25_13-10@roomies.com
+testAccountHelper.ts:48 [TestAccount] Attempting admin API user creation with pre-confirmation...
+testAccountHelper.ts:57 [TestAccount] Using admin client with service role key
+testAccountHelper.ts:74 [TestAccount] Admin API success! User created with ID: 9087ab8a-e297-40b9-8a4a-d4d4fef2399f (pre-confirmed)
+testAccountHelper.ts:77 [TestAccount] Signing in with pre-confirmed account...
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] Auth state changed: SIGNED_IN Session exists
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] User signed in, fetching profile for data verification 
+2onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 🔍 Fetching profile for user ID: 9087ab8a-e297-40b9-8a4a-d4d4fef2399f 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Raw Supabase data - onboarding_completed: false, name: Test Personality, personality_type: null 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Raw personality_dimensions from DB: 
+supabaseUserStore.ts:122 [SupabaseUserStore] Formatting user from Supabase: {id: '9087ab8a-e297-40b9-8a4a-d4d4fef2399f', email: 'test_06-25-25_13-10@roomies.com', name: 'Test Personality', onboarding_completed: false}
+supabaseUserStore.ts:168 [formatSupabaseUser] Raw personality_dimensions from DB: null
+supabaseUserStore.ts:178 [formatSupabaseUser] Using fallback personality dimensions: {ei: 50, sn: 50, tf: 50, jp: 50}
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Formatted user - onboardingCompleted: false, name: Test Personality, personalityType: null 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Formatted personalityDimensions: {ei: 50, sn: 50, tf: 50, jp: 50}
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] ✅ Profile loaded successfully into Supabase user store 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Raw Supabase data - onboarding_completed: false, name: Test Personality, personality_type: null 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Raw personality_dimensions from DB: 
+supabaseUserStore.ts:122 [SupabaseUserStore] Formatting user from Supabase: {id: '9087ab8a-e297-40b9-8a4a-d4d4fef2399f', email: 'test_06-25-25_13-10@roomies.com', name: 'Test Personality', onboarding_completed: false}
+supabaseUserStore.ts:168 [formatSupabaseUser] Raw personality_dimensions from DB: null
+supabaseUserStore.ts:178 [formatSupabaseUser] Using fallback personality dimensions: {ei: 50, sn: 50, tf: 50, jp: 50}
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Formatted user - onboardingCompleted: false, name: Test Personality, personalityType: null 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Formatted personalityDimensions: {ei: 50, sn: 50, tf: 50, jp: 50}
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] ✅ Profile loaded successfully into Supabase user store 
+testAccountHelper.ts:86 [TestAccount] Sign-in successful with pre-confirmed account
+testAccountHelper.ts:254 [TestAccount] Account test_06-25-25_13-10@roomies.com already exists, skipping save
+account.tsx:212 [DATA PERSISTENCE TEST] Test account created successfully with email: test_06-25-25_13-10@roomies.com
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] Auth state changed: SIGNED_IN Session exists
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] User signed in, fetching profile for data verification 
+2onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 🔍 Fetching profile for user ID: 9087ab8a-e297-40b9-8a4a-d4d4fef2399f 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Raw Supabase data - onboarding_completed: false, name: Test Personality, personality_type: null 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Raw personality_dimensions from DB: 
+supabaseUserStore.ts:122 [SupabaseUserStore] Formatting user from Supabase: {id: '9087ab8a-e297-40b9-8a4a-d4d4fef2399f', email: 'test_06-25-25_13-10@roomies.com', name: 'Test Personality', onboarding_completed: false}
+supabaseUserStore.ts:168 [formatSupabaseUser] Raw personality_dimensions from DB: null
+supabaseUserStore.ts:178 [formatSupabaseUser] Using fallback personality dimensions: {ei: 50, sn: 50, tf: 50, jp: 50}
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Formatted user - onboardingCompleted: false, name: Test Personality, personalityType: null 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Formatted personalityDimensions: {ei: 50, sn: 50, tf: 50, jp: 50}
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] ✅ Profile loaded successfully into Supabase user store 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Raw Supabase data - onboarding_completed: false, name: Test Personality, personality_type: null 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Raw personality_dimensions from DB: 
+supabaseUserStore.ts:122 [SupabaseUserStore] Formatting user from Supabase: {id: '9087ab8a-e297-40b9-8a4a-d4d4fef2399f', email: 'test_06-25-25_13-10@roomies.com', name: 'Test Personality', onboarding_completed: false}
+supabaseUserStore.ts:168 [formatSupabaseUser] Raw personality_dimensions from DB: null
+supabaseUserStore.ts:178 [formatSupabaseUser] Using fallback personality dimensions: {ei: 50, sn: 50, tf: 50, jp: 50}
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Formatted user - onboardingCompleted: false, name: Test Personality, personalityType: null 
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] 📋 Formatted personalityDimensions: {ei: 50, sn: 50, tf: 50, jp: 50}
+onboardingDebugUtils.ts:16 [DATA PERSISTENCE] ✅ Profile loaded successfully into Supabase user store 
+supabaseUserStore.ts:328 [SupabaseUserStore] Complete updateData being sent to Supabase: {profile_strength: 10}
+supabaseUserStore.ts:341 [SupabaseUserStore] ✅ Successfully updated user in Supabase
+supabaseOnboardingProfileUpdater.ts:22 [Onboarding] Updating profile after completing step: get-started
+supabaseOnboardingProfileUpdater.ts:27 [Onboarding] Using authenticated user ID: 9087ab8a-e297-40b9-8a4a-d4d4fef2399f
+supabaseOnboardingProfileUpdater.ts:96 [Onboarding] Formatting step data for get-started: {}
+supabaseOnboardingProfileUpdater.ts:228 [Onboarding] Formatted data for get-started: {}
+supabaseOnboardingProfileUpdater.ts:68 [Onboarding] Updating profile for user 9087ab8a-e297-40b9-8a4a-d4d4fef2399f with data: {
+  "completed_steps": [
+    "get-started"
+  ],
+  "profile_strength": 10
+}
+supabaseOnboardingProfileUpdater.ts:81 [Onboarding] Successfully updated profile after step get-started. New strength: 10%
+userStore.ts:335 [UserStore] Profile updated successfully
+supabaseOnboardingProfileUpdater.ts:22 [Onboarding] Updating profile after completing step: goals
+supabaseOnboardingProfileUpdater.ts:27 [Onboarding] Using authenticated user ID: 9087ab8a-e297-40b9-8a4a-d4d4fef2399f
+supabaseOnboardingProfileUpdater.ts:96 [Onboarding] Formatting step data for goals: {
+  "housing_goals": {
+    "goal_type": "explore-together",
+    "user_role": "both",
+    "has_place": false
+  },
+  "move_in_timeframe": "flexible"
+}
+supabaseOnboardingProfileUpdater.ts:228 [Onboarding] Formatted data for goals: {
+  "housing_goals": {
+    "goal_type": "explore-together",
+    "user_role": "both",
+    "has_place": false
+  },
+  "move_in_timeframe": "flexible"
+}
+supabaseOnboardingProfileUpdater.ts:68 [Onboarding] Updating profile for user 9087ab8a-e297-40b9-8a4a-d4d4fef2399f with data: {
+  "completed_steps": [
+    "get-started",
+    "goals"
+  ],
+  "housing_goals": {
+    "goal_type": "explore-together",
+    "user_role": "both",
+    "has_place": false
+  },
+  "move_in_timeframe": "flexible",
+  "profile_strength": 10
+}
+supabaseOnboardingProfileUpdater.ts:81 [Onboarding] Successfully updated profile after step goals. New strength: 10%
+goals.tsx:182 [Goals] Background profile update completed
+userStore.ts:335 [UserStore] Profile updated successfully
+budget.tsx:165 [Budget] Updated user and roommate profile with budget and location
+supabaseOnboardingProfileUpdater.ts:22 [Onboarding] Updating profile after completing step: budget
+budget.tsx:188 [Budget] Updating profile strength after completing budget step
+supabaseOnboardingProfileUpdater.ts:27 [Onboarding] Using authenticated user ID: 9087ab8a-e297-40b9-8a4a-d4d4fef2399f
+supabaseOnboardingProfileUpdater.ts:96 [Onboarding] Formatting step data for budget: {
+  "budget_min": 0,
+  "budget_max": 0,
+  "preferred_locations": [
+    {
+      "latitude": 37.785834,
+      "longitude": -122.406417,
+      "address": "San Francisco, CA",
+      "radius": 10,
+      "city": "San Francisco",
+      "state": "CA"
+    }
+  ]
+}
+supabaseOnboardingProfileUpdater.ts:228 [Onboarding] Formatted data for budget: {
+  "budget_min": 0,
+  "budget_max": 0,
+  "preferred_locations": {
+    "0": {
+      "latitude": 37.785834,
+      "longitude": -122.406417,
+      "address": "San Francisco, CA",
+      "radius": 10,
+      "city": "San Francisco",
+      "state": "CA"
+    }
+  }
+}
+supabaseOnboardingProfileUpdater.ts:68 [Onboarding] Updating profile for user 9087ab8a-e297-40b9-8a4a-d4d4fef2399f with data: {
+  "completed_steps": [
+    "get-started",
+    "goals",
+    "budget"
+  ],
+  "budget_min": 0,
+  "budget_max": 0,
+  "preferred_locations": {
+    "0": {
+      "latitude": 37.785834,
+      "longitude": -122.406417,
+      "address": "San Francisco, CA",
+      "radius": 10,
+      "city": "San Francisco",
+      "state": "CA"
+    }
+  },
+  "profile_strength": 10
+}
+supabaseOnboardingProfileUpdater.ts:81 [Onboarding] Successfully updated profile after step budget. New strength: 10%
+lifestyle.tsx:362 [Lifestyle] Saving preferences: {cleanliness: 2, noise: 2, guestFrequency: 0, smoking: false, drinking: false, pets: true, petPreference: 'love-pets', schedule: 'early-riser'}
+userStore.ts:335 [UserStore] Profile updated successfully
+lifestyle.tsx:381 [Lifestyle] Updated user and roommate profile with lifestyle preferences
+supabaseOnboardingProfileUpdater.ts:22 [Onboarding] Updating profile after completing step: lifestyle
+lifestyle.tsx:393 [Lifestyle] Updating profile strength after completing lifestyle step
+supabaseOnboardingProfileUpdater.ts:27 [Onboarding] Using authenticated user ID: 9087ab8a-e297-40b9-8a4a-d4d4fef2399f
+supabaseOnboardingProfileUpdater.ts:96 [Onboarding] Formatting step data for lifestyle: {
+  "lifestyle_preferences": {
+    "cleanliness": 2,
+    "noise": 2,
+    "guestFrequency": 0,
+    "smoking": false,
+    "drinking": false,
+    "pets": true,
+    "petPreference": "love-pets",
+    "schedule": "early-riser"
+  }
+}
+supabaseOnboardingProfileUpdater.ts:228 [Onboarding] Formatted data for lifestyle: {
+  "lifestyle_preferences": {
+    "cleanliness": 2,
+    "noise": 2,
+    "guestFrequency": 0,
+    "smoking": false,
+    "drinking": false,
+    "pets": true,
+    "petPreference": "love-pets",
+    "schedule": "early-riser"
+  }
+}
+supabaseOnboardingProfileUpdater.ts:68 [Onboarding] Updating profile for user 9087ab8a-e297-40b9-8a4a-d4d4fef2399f with data: {
+  "completed_steps": [
+    "get-started",
+    "goals",
+    "budget",
+    "lifestyle"
+  ],
+  "lifestyle_preferences": {
+    "cleanliness": 2,
+    "noise": 2,
+    "guestFrequency": 0,
+    "smoking": false,
+    "drinking": false,
+    "pets": true,
+    "petPreference": "love-pets",
+    "schedule": "early-riser"
+  },
+  "profile_strength": 10
+}
+supabaseOnboardingProfileUpdater.ts:81 [Onboarding] Successfully updated profile after step lifestyle. New strength: 10%
+userStore.ts:335 [UserStore] Profile updated successfully
+supabaseOnboardingProfileUpdater.ts:22 [Onboarding] Updating profile after completing step: about-you
+about-you.tsx:131 [AboutYou] Updating profile strength after completing about-you step
+supabaseOnboardingProfileUpdater.ts:27 [Onboarding] Using authenticated user ID: 9087ab8a-e297-40b9-8a4a-d4d4fef2399f
+supabaseOnboardingProfileUpdater.ts:96 [Onboarding] Formatting step data for about-you: {
+  "gender": "male",
+  "personality_traits": [
+    "studious",
+    "private",
+    "practical",
+    "creative"
+  ]
+}
+supabaseOnboardingProfileUpdater.ts:228 [Onboarding] Formatted data for about-you: {
+  "gender": "male",
+  "personality_traits": [
+    "studious",
+    "private",
+    "practical",
+    "creative"
+  ]
+}
+supabaseOnboardingProfileUpdater.ts:68 [Onboarding] Updating profile for user 9087ab8a-e297-40b9-8a4a-d4d4fef2399f with data: {
+  "completed_steps": [
+    "get-started",
+    "goals",
+    "budget",
+    "lifestyle",
+    "about-you"
+  ],
+  "gender": "male",
+  "personality_traits": [
+    "studious",
+    "private",
+    "practical",
+    "creative"
+  ],
+  "profile_strength": 15
+}
+supabaseOnboardingProfileUpdater.ts:81 [Onboarding] Successfully updated profile after step about-you. New strength: 15%
+quiz.tsx:215 ===== PERSONALITY QUIZ DEBUG INFORMATION =====
+quiz.tsx:216 Raw slider values for each question:
+quiz.tsx:217 E/I questions: (3) [93.67815399169922, 92.94670867919922, 100]
+quiz.tsx:218 S/N questions: (3) [84.48275756835938, 74.13793182373047, 90.0208969116211]
+quiz.tsx:219 T/F questions: (3) [17.607101440429688, 83.54232025146484, 88.0355224609375]
+quiz.tsx:220 J/P questions: (3) [88.0355224609375, 21.682336807250977, 83.75130462646484]
+quiz.tsx:223 
+Average scores for each dimension:
+quiz.tsx:224 E/I dimension: 95.54 (Introverted (I))
+quiz.tsx:225 S/N dimension: 82.88 (Intuitive (N))
+quiz.tsx:226 T/F dimension: 63.06 (Feeling (F))
+quiz.tsx:227 J/P dimension: 64.49 (Perceiving (P))
+quiz.tsx:230 
+HOW TO READ THE SCORES:
+quiz.tsx:231 E/I dimension: Low values (0-49) = Extraverted (E), High values (51-100) = Introverted (I)
+quiz.tsx:232 S/N dimension: Low values (0-49) = Sensing (S), High values (51-100) = Intuitive (N)
+quiz.tsx:233 T/F dimension: Low values (0-49) = Thinking (T), High values (51-100) = Feeling (F)
+quiz.tsx:234 J/P dimension: Low values (0-49) = Judging (J), High values (51-100) = Perceiving (P)
+quiz.tsx:235 50 exactly is a borderline case and could go either way
+quiz.tsx:244 
+FINAL PERSONALITY TYPE: INFP
+quiz.tsx:256 DEBUG - Current user state before update: {hasUser: true, personalityType: 'ESFP', personalityDimensions: {…}}
+supabaseUserStore.ts:301 [SupabaseUserStore] Saving personality dimensions: {ei: 95.54162089029948, sn: 82.88052876790364, tf: 63.06164805094401, jp: 64.48972129821777}
+supabaseUserStore.ts:303 [SupabaseUserStore] Converted to JSONB: {ei: 95.54162089029948, sn: 82.88052876790364, tf: 63.06164805094401, jp: 64.48972129821777}
+supabaseUserStore.ts:328 [SupabaseUserStore] Complete updateData being sent to Supabase: {personality_type: 'INFP', personality_dimensions: {…}, profile_strength: 10}
+supabaseUserStore.ts:341 [SupabaseUserStore] ✅ Successfully updated user in Supabase
+quiz.tsx:282 Your personality profile has been saved!
+quiz.tsx:283 DEBUG - Applied personality update: {personalityDimensions: {…}, personalityType: 'INFP'}
+quiz.tsx:285 
+Personality data saved to user store: INFP
+quiz.tsx:290 VERIFICATION - Supabase user data after saving: {personalityType: 'INFP', dimensions: {…}}
+quiz.tsx:313 FINAL VERIFICATION - Supabase user data before navigation: {personalityType: 'INFP', dimensions: {…}}
+quiz.tsx:319 ✅ Personality type successfully saved to Supabase store
+quiz.tsx:321 Navigating to results screen with personality type: INFP
+supabaseOnboardingProfileUpdater.ts:22 [Onboarding] Updating profile after completing step: personality
+supabaseOnboardingProfileUpdater.ts:27 [Onboarding] Using authenticated user ID: 9087ab8a-e297-40b9-8a4a-d4d4fef2399f
+supabaseOnboardingProfileUpdater.ts:96 [Onboarding] Formatting step data for personality: {
+  "personality_type": "INFP",
+  "personality_traits": [
+    "Creates a cozy, personalized living space",
+    "Needs alone time to recharge",
+    "Values roommates who respect personal beliefs"
+  ],
+  "personality_dimensions": {
+    "ei": 39.44618542989095,
+    "sn": 31.92267608642578,
+    "tf": 50,
+    "jp": 50
+  }
+}
+supabaseOnboardingProfileUpdater.ts:228 [Onboarding] Formatted data for personality: {
+  "personality_type": "INFP",
+  "personality_dimensions": {
+    "ei": 39.44618542989095,
+    "sn": 31.92267608642578,
+    "tf": 50,
+    "jp": 50
+  }
+}
+supabaseOnboardingProfileUpdater.ts:68 [Onboarding] Updating profile for user 9087ab8a-e297-40b9-8a4a-d4d4fef2399f with data: {
+  "completed_steps": [
+    "get-started",
+    "goals",
+    "budget",
+    "lifestyle",
+    "about-you",
+    "personality"
+  ],
+  "personality_type": "INFP",
+  "personality_dimensions": {
+    "ei": 39.44618542989095,
+    "sn": 31.92267608642578,
+    "tf": 50,
+    "jp": 50
+  },
+  "profile_strength": 15
+}
+supabaseOnboardingProfileUpdater.ts:81 [Onboarding] Successfully updated profile after step personality. New strength: 15%

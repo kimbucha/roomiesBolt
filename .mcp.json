@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+      "supabase": {
+        "command": "/Users/mona/.local/bin/supabase-mcp-server", 
+        "env": {
+          "QUERY_API_KEY": "qry_v1_BeeZ263Hh8OW8VwcwcAhGr5U00MTbAwN6Ti3MkNwW8M", 
+          "SUPABASE_PROJECT_REF": "hybyjgpcbcqpndxrquqv",
+          "SUPABASE_DB_PASSWORD": "KkvXwWp9FeZztqfX",
+          "SUPABASE_REGION": "us-west-1", 
+          "SUPABASE_ACCESS_TOKEN": "sbp_9f82de3b443434ea9fa4d89b7cf27353a3a551f5", 
+          "SUPABASE_SERVICE_ROLE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh5YnlqZ3BjYmNxcG5keHJxdXF2Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0NzY4NDc1MiwiZXhwIjoyMDYzMjYwNzUyfQ.9Z1zaIrlQOBcpcQ826mzF6qj7qj1sA4symdh69Y6_kw" 
+        }
+      }
+    }
+}

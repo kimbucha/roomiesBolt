@@ -1,0 +1,26 @@
+Starting project at /Users/mona/code/Roomies
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+› Opening exp://192.168.1.105:8081 on iPhone 16 Pro
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+| expo-router/babel is deprecated in favor of babel-preset-expo in SDK 50. To fix the issue, remove "expo-router/babel" from "plugins" in your babel.config.js file.
+| expo-router/babel is deprecated in favor of babel-preset-expo in SDK 50. To fix the issue, remove "expo-router/babel" from "plugins" in your babel.config.js file.
+| expo-router/babel is deprecated in favor of babel-preset-expo in SDK 50. To fix the issue, remove "expo-router/babel" from "plugins" in your babel.config.js file.
+| expo-router/babel is deprecated in favor of babel-preset-expo in SDK 50. To fix the issue, remove "expo-router/babel" from "plugins" in your babel.config.js file.
+| expo-router/babel is deprecated in favor of babel-preset-expo in SDK 50. To fix the issue, remove "expo-router/babel" from "plugins" in your babel.config.js file.
+| expo-router/babel is deprecated in favor of babel-preset-expo in SDK 50. To fix the issue, remove "expo-router/babel" from "plugins" in your babel.config.js file.
+iOS Bundled 44099ms node_modules/expo-router/entry.js (3732 modules)
+ (NOBRIDGE) LOG  Bridgeless mode is enabled
+ INFO  
+[7m [1m💡 JavaScript logs will be removed from Metro in React Native 0.77![22m Please use React Native DevTools as your default tool. Tip: Type [1mj[22m in the terminal to open (requires Google Chrome or Microsoft Edge).[27m
+ (NOBRIDGE) WARN  Require cycle: store/userStore.ts -> services/index.ts -> services/WebSocketService.ts -> store/messageStore.ts -> store/userStore.ts
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle. [Component Stack]
+ (NOBRIDGE) WARN  Require cycle: store/roommateStore.ts -> utils/mockDataSetup.ts -> store/roommateStore.ts
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle. [Component Stack]
+ (NOBRIDGE) WARN  expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/. [Component Stack]
+ (NOBRIDGE) WARN  `expo-notifications` functionality is not fully supported in Expo Go:
+We recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client. [Component Stack]
+ (NOBRIDGE) LOG  [PlaceDetails] Module Loaded

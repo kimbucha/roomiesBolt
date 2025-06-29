@@ -1,0 +1,999 @@
+{
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": ["#000000", "#FDF6EE"],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail — maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None — relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "ISFJ",
+      "title": "The Protector",
+      "descriptionKeywords": ["Warm", "Considerate", "Dependable"],
+      "accentColors": ["#F3B94D", "#FCD77A"],
+      "gesturalElements": {
+        "handPosition": "Hand over heart",
+        "facialExpression": "Soft smile",
+        "poseNotes": "Calm, receptive posture"
+      },
+      "propsAndScene": {
+        "environment": "Cozy living room",
+        "mainProps": ["Lamp", "Armchair", "Framed flower"],
+        "symbolicDecor": ["Heart icon"]
+      },
+      "moodAndTone": {
+        "vibe": "Comforting, nurturing",
+        "emotionalImpact": "Safety, warmth, emotional availability"
+      }
+    }
+  },
+  {
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": [
+          "#000000",
+          "#FDF6EE"
+        ],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None \u2014 relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "ISTJ",
+      "title": "The Inspector",
+      "descriptionKeywords": [
+        "Practical",
+        "Detail-oriented",
+        "Reliable"
+      ],
+      "accentColors": [
+        "#A6C4A2",
+        "#E5E9DC"
+      ],
+      "gesturalElements": {
+        "handPosition": "Cleaning surface",
+        "facialExpression": "Focused"
+      },
+      "propsAndScene": {
+        "environment": "Organized desk or room",
+        "mainProps": [
+          "Clipboard",
+          "Clock"
+        ]
+      },
+      "moodAndTone": {
+        "vibe": "Orderly, diligent",
+        "emotionalImpact": "Stability, dependability"
+      }
+    }
+  },
+  {
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": [
+          "#000000",
+          "#FDF6EE"
+        ],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None \u2014 relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "INFJ",
+      "title": "The Counselor",
+      "descriptionKeywords": [
+        "Insightful",
+        "Creative",
+        "Principled"
+      ],
+      "accentColors": [
+        "#B1B9E3",
+        "#D8DDF0"
+      ],
+      "gesturalElements": {
+        "handPosition": "Hands together in thought",
+        "facialExpression": "Dreamy"
+      },
+      "propsAndScene": {
+        "environment": "Window view or journal",
+        "mainProps": [
+          "Candle",
+          "Notebook"
+        ]
+      },
+      "moodAndTone": {
+        "vibe": "Reflective, meaningful",
+        "emotionalImpact": "Inspiration, empathy"
+      }
+    }
+  },
+ 
+  {
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": [
+          "#000000",
+          "#FDF6EE"
+        ],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None \u2014 relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "INTJ",
+      "title": "The Mastermind",
+      "descriptionKeywords": [
+        "Strategic",
+        "Independent",
+        "Analytical"
+      ],
+      "accentColors": [
+        "#637E95",
+        "#B2C4D6"
+      ],
+      "gesturalElements": {
+        "handPosition": "Pointing or thinking",
+        "facialExpression": "Serious"
+      },
+      "propsAndScene": {
+        "environment": "Minimalist workspace",
+        "mainProps": [
+          "Blueprint",
+          "Graph"
+        ]
+      },
+      "moodAndTone": {
+        "vibe": "Visionary, structured",
+        "emotionalImpact": "Focus, intellect"
+      }
+    }
+  },
+
+{
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": [
+          "#000000",
+          "#FDF6EE"
+        ],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None \u2014 relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "ISTP",
+      "title": "The Craftsman",
+      "descriptionKeywords": [
+        "Practical",
+        "Adaptable",
+        "Independent"
+      ],
+      "accentColors": [
+        "#C3C3AF",
+        "#E3E3D0"
+      ],
+      "gesturalElements": {
+        "handPosition": "Holding tool",
+        "facialExpression": "Neutral"
+      },
+      "propsAndScene": {
+        "environment": "Garage or workshop",
+        "mainProps": [
+          "Wrench",
+          "Toolbox"
+        ]
+      },
+      "moodAndTone": {
+        "vibe": "Self-sufficient, hands-on",
+        "emotionalImpact": "Competence, quiet focus"
+      }
+    }
+  },
+
+  {
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": [
+          "#000000",
+          "#FDF6EE"
+        ],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None \u2014 relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "ISFP",
+      "title": "The Composer",
+      "descriptionKeywords": [
+        "Gentle",
+        "Sensitive",
+        "Artistic"
+      ],
+      "accentColors": [
+        "#F9C5D1",
+        "#EADDE1"
+      ],
+      "gesturalElements": {
+        "handPosition": "Painting or holding flower",
+        "facialExpression": "Content"
+      },
+      "propsAndScene": {
+        "environment": "Art nook",
+        "mainProps": [
+          "Brush",
+          "Canvas"
+        ]
+      },
+      "moodAndTone": {
+        "vibe": "Creative, soothing",
+        "emotionalImpact": "Beauty, peace"
+      }
+    }
+  },{
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": [
+          "#000000",
+          "#FDF6EE"
+        ],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None \u2014 relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "INFP",
+      "title": "The Healer",
+      "descriptionKeywords": [
+        "Idealistic",
+        "Compassionate",
+        "Creative"
+      ],
+      "accentColors": [
+        "#B0D6B9",
+        "#DDF0E4"
+      ],
+      "gesturalElements": {
+        "handPosition": "Hand to heart or writing",
+        "facialExpression": "Soft, dreamy"
+      },
+      "propsAndScene": {
+        "environment": "Personal cozy space",
+        "mainProps": [
+          "Books",
+          "Blanket"
+        ]
+      },
+      "moodAndTone": {
+        "vibe": "Tender, introspective",
+        "emotionalImpact": "Warmth, kindness"
+      }
+    }
+  }, 
+  {
+     "coreStyle": {
+       "ColorPalette": {
+         "baseColors": [
+           "#000000",
+           "#FDF6EE"
+         ],
+         "backgroundColor": "#FDF6EE",
+         "notes": "Neutral cream background and black linework remain consistent across all types."
+       },
+       "IllustrationStyle": {
+         "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+         "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+         "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+       },
+       "LineStyle": {
+         "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+         "quality": "Clean, rounded, consistent",
+         "notes": "No rough sketch lines or variation in stroke weight"
+       },
+       "ShapesAndForms": {
+         "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+         "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+         "scale": "Centered character (waist-up) with supportive background elements"
+       },
+       "Typography": {
+         "typePresence": "No in-image text",
+         "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+       },
+       "TextureAndShading": {
+         "style": "Flat fills with light pencil or paper texture",
+         "shading": "None \u2014 relies on contrast and layout"
+       }
+     },
+     "personalityCustomization": {
+       "MBTI": "INTP",
+       "title": "The Architect",
+       "descriptionKeywords": [
+         "Logical",
+         "Curious",
+         "Innovative"
+       ],
+       "accentColors": [
+         "#A3C7E4",
+         "#D6EBF5"
+       ],
+       "gesturalElements": {
+         "handPosition": "Hand on chin",
+         "facialExpression": "Thinking"
+       },
+       "propsAndScene": {
+         "environment": "Idea lab",
+         "mainProps": [
+           "Laptop",
+           "Sketchpad"
+         ]
+       },
+       "moodAndTone": {
+         "vibe": "Analytical, abstract",
+         "emotionalImpact": "Discovery, focus"
+       }
+     }
+   },    
+
+   {
+      "coreStyle": {
+        "ColorPalette": {
+          "baseColors": [
+            "#000000",
+            "#FDF6EE"
+          ],
+          "backgroundColor": "#FDF6EE",
+          "notes": "Neutral cream background and black linework remain consistent across all types."
+        },
+        "IllustrationStyle": {
+          "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+          "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+          "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+        },
+        "LineStyle": {
+          "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+          "quality": "Clean, rounded, consistent",
+          "notes": "No rough sketch lines or variation in stroke weight"
+        },
+        "ShapesAndForms": {
+          "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+          "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+          "scale": "Centered character (waist-up) with supportive background elements"
+        },
+        "Typography": {
+          "typePresence": "No in-image text",
+          "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+        },
+        "TextureAndShading": {
+          "style": "Flat fills with light pencil or paper texture",
+          "shading": "None \u2014 relies on contrast and layout"
+        }
+      },
+      "personalityCustomization": {
+        "MBTI": "ESTP",
+        "title": "The Dynamo",
+        "descriptionKeywords": [
+          "Energetic",
+          "Practical",
+          "Spontaneous"
+        ],
+        "accentColors": [
+          "#F7A072",
+          "#FAD4C0"
+        ],
+        "gesturalElements": {
+          "handPosition": "One hand raised",
+          "facialExpression": "Excited"
+        },
+        "propsAndScene": {
+          "environment": "Outdoor or sporty",
+          "mainProps": [
+            "Basketball",
+            "Backpack"
+          ]
+        },
+        "moodAndTone": {
+          "vibe": "Lively, action-oriented",
+          "emotionalImpact": "Energy, movement"
+        }
+      }
+    }, {
+        "coreStyle": {
+          "ColorPalette": {
+            "baseColors": [
+              "#000000",
+              "#FDF6EE"
+            ],
+            "backgroundColor": "#FDF6EE",
+            "notes": "Neutral cream background and black linework remain consistent across all types."
+          },
+          "IllustrationStyle": {
+            "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+            "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+            "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+          },
+          "LineStyle": {
+            "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+            "quality": "Clean, rounded, consistent",
+            "notes": "No rough sketch lines or variation in stroke weight"
+          },
+          "ShapesAndForms": {
+            "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+            "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+            "scale": "Centered character (waist-up) with supportive background elements"
+          },
+          "Typography": {
+            "typePresence": "No in-image text",
+            "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+          },
+          "TextureAndShading": {
+            "style": "Flat fills with light pencil or paper texture",
+            "shading": "None \u2014 relies on contrast and layout"
+          }
+        },
+        "personalityCustomization": {
+          "MBTI": "ESFP",
+          "title": "The Performer",
+          "descriptionKeywords": [
+            "Enthusiastic",
+            "Social",
+            "Fun-loving"
+          ],
+          "accentColors": [
+            "#FFD56F",
+            "#FEE4B9"
+          ],
+          "gesturalElements": {
+            "handPosition": "Hands waving or open",
+            "facialExpression": "Big smile"
+          },
+          "propsAndScene": {
+            "environment": "Party or music setting",
+            "mainProps": [
+              "Speaker",
+              "Confetti"
+            ]
+          },
+          "moodAndTone": {
+            "vibe": "Joyful, expressive",
+            "emotionalImpact": "Happiness, charisma"
+          }
+        }
+      },
+      {
+         "coreStyle": {
+           "ColorPalette": {
+             "baseColors": [
+               "#000000",
+               "#FDF6EE"
+             ],
+             "backgroundColor": "#FDF6EE",
+             "notes": "Neutral cream background and black linework remain consistent across all types."
+           },
+           "IllustrationStyle": {
+             "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+             "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+             "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+           },
+           "LineStyle": {
+             "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+             "quality": "Clean, rounded, consistent",
+             "notes": "No rough sketch lines or variation in stroke weight"
+           },
+           "ShapesAndForms": {
+             "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+             "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+             "scale": "Centered character (waist-up) with supportive background elements"
+           },
+           "Typography": {
+             "typePresence": "No in-image text",
+             "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+           },
+           "TextureAndShading": {
+             "style": "Flat fills with light pencil or paper texture",
+             "shading": "None \u2014 relies on contrast and layout"
+           }
+         },
+         "personalityCustomization": {
+           "MBTI": "ENFP",
+           "title": "The Champion",
+           "descriptionKeywords": [
+             "Enthusiastic",
+             "Creative",
+             "People-oriented"
+           ],
+           "accentColors": [
+             "#FBBF77",
+             "#FFF0D1"
+           ],
+           "gesturalElements": {
+             "handPosition": "Hand gesturing mid-speech",
+             "facialExpression": "Inspired"
+           },
+           "propsAndScene": {
+             "environment": "Creative group setting",
+             "mainProps": [
+               "Lightbulb",
+               "Sketchpad"
+             ]
+           },
+           "moodAndTone": {
+             "vibe": "Inspiring, upbeat",
+             "emotionalImpact": "Creativity, connection"
+           }
+         }
+       },
+       {
+          "coreStyle": {
+            "ColorPalette": {
+              "baseColors": [
+                "#000000",
+                "#FDF6EE"
+              ],
+              "backgroundColor": "#FDF6EE",
+              "notes": "Neutral cream background and black linework remain consistent across all types."
+            },
+            "IllustrationStyle": {
+              "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+              "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+              "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+            },
+            "LineStyle": {
+              "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+              "quality": "Clean, rounded, consistent",
+              "notes": "No rough sketch lines or variation in stroke weight"
+            },
+            "ShapesAndForms": {
+              "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+              "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+              "scale": "Centered character (waist-up) with supportive background elements"
+            },
+            "Typography": {
+              "typePresence": "No in-image text",
+              "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+            },
+            "TextureAndShading": {
+              "style": "Flat fills with light pencil or paper texture",
+              "shading": "None \u2014 relies on contrast and layout"
+            }
+          },
+          "personalityCustomization": {
+            "MBTI": "ENTP",
+            "title": "The Visionary",
+            "descriptionKeywords": [
+              "Innovative",
+              "Curious",
+              "Adaptable"
+            ],
+            "accentColors": [
+              "#A8D5BA",
+              "#E3F9E4"
+            ],
+            "gesturalElements": {
+              "handPosition": "Arms wide or thinking",
+              "facialExpression": "Playful smirk"
+            },
+            "propsAndScene": {
+              "environment": "Studio or brainstorming zone",
+              "mainProps": [
+                "Idea cloud",
+                "Sticky notes"
+              ]
+            },
+            "moodAndTone": {
+              "vibe": "Inventive, fun",
+              "emotionalImpact": "Playfulness, stimulation"
+            }
+          }
+        },
+
+ {
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": [
+          "#000000",
+          "#FDF6EE"
+        ],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None \u2014 relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "ESTJ",
+      "title": "The Supervisor",
+      "descriptionKeywords": [
+        "Organized",
+        "Practical",
+        "Decisive"
+      ],
+      "accentColors": [
+        "#8BAAAD",
+        "#D4E7E6"
+      ],
+      "gesturalElements": {
+        "handPosition": "Pointing or arms crossed",
+        "facialExpression": "Assertive"
+      },
+      "propsAndScene": {
+        "environment": "Command center or team huddle",
+        "mainProps": [
+          "Clipboard",
+          "Checklist"
+        ]
+      },
+      "moodAndTone": {
+        "vibe": "Confident, no-nonsense",
+        "emotionalImpact": "Clarity, leadership"
+      }
+    }
+  },
+  {
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": [
+          "#000000",
+          "#FDF6EE"
+        ],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None \u2014 relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "ESFJ",
+      "title": "The Provider",
+      "descriptionKeywords": [
+        "Warm",
+        "Organized",
+        "Supportive"
+      ],
+      "accentColors": [
+        "#F9B4AB",
+        "#FFE7E2"
+      ],
+      "gesturalElements": {
+        "handPosition": "Serving or arranging",
+        "facialExpression": "Welcoming smile"
+      },
+      "propsAndScene": {
+        "environment": "Kitchen or dining table",
+        "mainProps": [
+          "Food tray",
+          "Flower vase"
+        ]
+      },
+      "moodAndTone": {
+        "vibe": "Nurturing, structured",
+        "emotionalImpact": "Belonging, gratitude"
+      }
+    }
+  },
+    {
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": [
+          "#000000",
+          "#FDF6EE"
+        ],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None \u2014 relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "ENFJ",
+      "title": "The Teacher",
+      "descriptionKeywords": [
+        "Warm",
+        "Empathetic",
+        "Organized"
+      ],
+      "accentColors": [
+        "#E6B2C6",
+        "#F9E4EE"
+      ],
+      "gesturalElements": {
+        "handPosition": "Open hands or guiding gesture",
+        "facialExpression": "Encouraging"
+      },
+      "propsAndScene": {
+        "environment": "Classroom or couch chat",
+        "mainProps": [
+          "Notebook",
+          "Speech bubble"
+        ]
+      },
+      "moodAndTone": {
+        "vibe": "Motivational, kind",
+        "emotionalImpact": "Growth, emotional resonance"
+      }
+    }
+},{
+    "coreStyle": {
+      "ColorPalette": {
+        "baseColors": [
+          "#000000",
+          "#FDF6EE"
+        ],
+        "backgroundColor": "#FDF6EE",
+        "notes": "Neutral cream background and black linework remain consistent across all types."
+      },
+      "IllustrationStyle": {
+        "generalApproach": "Flat digital illustration with a hand-drawn aesthetic",
+        "renderingTechnique": "Vector-style, digitally inked with solid fills and soft texture overlays",
+        "influencesOrReferences": "Minimalist editorial cartoon meets instructional design"
+      },
+      "LineStyle": {
+        "thickness": "Medium stroke weight (~2-3px at 1x resolution)",
+        "quality": "Clean, rounded, consistent",
+        "notes": "No rough sketch lines or variation in stroke weight"
+      },
+      "ShapesAndForms": {
+        "characterDesign": "Simplified limbs, expressive faces, friendly proportions",
+        "propsStyle": "Geometric, minimal detail \u2014 maintains silhouette clarity",
+        "scale": "Centered character (waist-up) with supportive background elements"
+      },
+      "Typography": {
+        "typePresence": "No in-image text",
+        "recommendedFont": "Poppins or similar soft sans-serif for UI pairing"
+      },
+      "TextureAndShading": {
+        "style": "Flat fills with light pencil or paper texture",
+        "shading": "None \u2014 relies on contrast and layout"
+      }
+    },
+    "personalityCustomization": {
+      "MBTI": "ENTJ",
+      "title": "The Commander",
+      "descriptionKeywords": [
+        "Strategic",
+        "Efficient",
+        "Decisive"
+      ],
+      "accentColors": [
+        "#748CAB",
+        "#CFDAE9"
+      ],
+      "gesturalElements": {
+        "handPosition": "Directing or pointing",
+        "facialExpression": "Focused"
+      },
+      "propsAndScene": {
+        "environment": "Office or planning space",
+        "mainProps": [
+          "Charts",
+          "Phone"
+        ]
+      },
+      "moodAndTone": {
+        "vibe": "Purpose-driven, clear",
+        "emotionalImpact": "Drive, leadership"
+      }
+    }
+  }
